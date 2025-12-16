@@ -3,6 +3,8 @@ EZ THEME: A theme for V2Board / wyxBoard / XBoard
 
 TAG: V2B 主题 \ V2B 开源主题 \ XB 主题 \ 主题 \ 面板美化包 \ V2Board 主题
 
+点个 Star 呗大佬们
+
 # V2Board User 前端项目
 
 一个美观、现代的V2Board管理后台前端项目，基于Vue 3开发。
